@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo>
+    <videojuego id="001" consola="PS5">
+        <titulo>Elden Ring</titulo>
+        <genero>RPG</genero>
+    </videojuego>
+
+    <videojuego id="002" consola="Xbox One">
+        <titulo>God of War Ragnarok</titulo>
+        <genero>Acción</genero>
+    </videojuego>
+
+    <videojuego id="003" consola="PS5">
+        <titulo>Spider-Man 2</titulo>
+        <genero>Acción</genero>
+    </videojuego>
+
+    <videojuego id="004" consola="PS5">
+        <titulo>Gran Turismo 7</titulo>
+        <genero>Conducción</genero>
+    </videojuego>
+
+    <videojuego id="005" consola="PC">
+        <titulo>Hogwarts Legacy</titulo>
+        <genero>Aventura</genero>
+    </videojuego>
+</catalogo>
